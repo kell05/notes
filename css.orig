@@ -1,0 +1,14 @@
+* CSS
+Origin (browser)
+Important (global override)
+Scope
+Inline (Styles directly added to the html, rather than imported ) 
+
+
+Specicifity
+
+What is the cascade?
+Basically the rules to which a 
+Stylesheet origin—Where the styles come from. Your styles are applied in conjunction with the browser’s default styles.
+2 Selector specificity—Which selectors take precedence over which.
+3 Source order—Order in which styles are declared in the stylesheet.
